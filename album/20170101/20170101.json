@@ -1,0 +1,21 @@
+{
+ "AlbumID":"20170101",
+ "AlbumDate":"2017/01/01",
+ "AlbumName":"秩父鉄道",
+ "Cover" : "10",
+ "Description" : "初詣は秩父神社。これは、自分ルールで変えてはいけないことになってます。</p><p>晴れたので、自ずと、午前中は急行開運号とSL秩父路初詣号の撮影、となります。</p><p>しかし、これらをまとめて順光で撮れる場所って限られてて、じゃあ、桜沢～寄居間か、と思って現地に行ったら、周りにソーラーパネルが林立しててですね・・・。はい、仲間たちのTwitterでそういえば騒がれてたかな、と。</p><p>とりあえず、何とか、ポジション調整してこなしました。</p><p>ちなみにこの場所は秩父鉄道と八高線が並走してる箇所なので、ついでに八高線も撮れました。が、あくまで秩父鉄道を撮る向けの構え方なので、八高線は小さくなってます。</p><p>八高線は八高線でまじめに撮りたいんですけどね。",
+ "AlbumPhoto":[
+{ "seq":"1", "LineName":"秩父鉄道", "Section":"桜沢～寄居間", "TrainNumber":"1511列車", "Formation":"7803F" },
+{ "seq":"2", "LineName":"八高線", "Section":"寄居～用土間", "TrainNumber":"226D", "Formation":"キハ112-204+キハ111-204" },
+{ "seq":"3", "LineName":"秩父鉄道", "Section":"桜沢～寄居間", "TrainNumber":"1001列車", "TrainName":"急行開運1号", "Formation":"6001F" },
+{ "seq":"4", "LineName":"秩父鉄道", "Section":"桜沢～寄居間", "TrainNumber":"1513列車", "Formation":"7506F" },
+{ "seq":"5", "LineName":"秩父鉄道", "Section":"桜沢～寄居間", "TrainNumber":"1515列車", "Formation":"7002F" },
+{ "seq":"6", "LineName":"八高線", "Section":"寄居～用土間", "TrainNumber":"228D", "Formation":"キハ112-205+キハ111-205" },
+{ "seq":"7", "LineName":"秩父鉄道", "Section":"桜沢～寄居間", "TrainNumber":"1517列車", "Formation":"7801F" },
+{ "seq":"8", "LineName":"秩父鉄道", "Section":"桜沢～寄居間", "TrainNumber":"1003列車", "TrainName":"急行開運3号", "Formation":"6002F" },
+{ "seq":"9", "LineName":"秩父鉄道", "Section":"桜沢～寄居間", "TrainNumber":"1519列車", "Formation":"7505F秩父三社トレイン" },
+{ "seq":"10", "LineName":"秩父鉄道", "Section":"桜沢～寄居間", "TrainNumber":"5001列車", "TrainName":"SL秩父路初詣号", "Formation":"C58 363牽引、12系客車" },
+{ "seq":"11", "LineName":"秩父鉄道", "Section":"桜沢～寄居間", "TrainNumber":"1521列車", "Formation":"7504F" }
+]
+}
+

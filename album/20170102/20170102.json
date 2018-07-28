@@ -1,0 +1,23 @@
+{
+ "AlbumID":"20170102",
+ "AlbumDate":"2017/01/02",
+ "AlbumName":"秩父鉄道",
+ "Cover" : "8",
+ "Description" : "今日は終日撮影に費やせる日ですが、GPV見てると雲行きが不安。とりあえず、青空を目立たせないアングルも選択できる樋口～野上間へ向かいました。結果、アングル方向の雲がなかなか引かなかったものの、基本的に日が差してくれました。SLが行った後は自分の中でおなじみ波久礼No.10踏切に向かおうとしましたが、その途中の道路と線路の間の工場がなくなったことで、その川寄りの空き地が撮影地として使えそうなことが分かったので試してみました。",
+ "AlbumPhoto":[
+{ "seq":"1", "LineName":"秩父鉄道", "Section":"樋口～野上間", "TrainNumber":"1001列車", "TrainName":"急行開運1号", "Formation":"6002F" },
+{ "seq":"2", "LineName":"秩父鉄道", "Section":"樋口～野上間", "TrainNumber":"1513列車", "Formation":"7502F","AdditionalInfo":"秩父ジオパークトレイン" },
+{ "seq":"3", "LineName":"秩父鉄道", "Section":"樋口～野上間", "TrainNumber":"1515列車", "Formation":"5003F" },
+{ "seq":"4", "LineName":"秩父鉄道", "Section":"樋口～野上間", "TrainNumber":"1517列車", "Formation":"7802F" },
+{ "seq":"5", "LineName":"秩父鉄道", "Section":"樋口～野上間", "TrainNumber":"1003列車", "TrainName":"急行開運3号", "Formation":"6001F" },
+{ "seq":"6", "LineName":"秩父鉄道", "Section":"樋口～野上間", "TrainNumber":"1519列車", "Formation":"7801F" },
+{ "seq":"7", "LineName":"秩父鉄道", "Section":"樋口～野上間", "TrainNumber":"1521列車", "Formation":"7501F" },
+{ "seq":"8", "LineName":"秩父鉄道", "Section":"樋口～野上間", "TrainNumber":"5001列車", "TrainName":"SL秩父路初詣号", "Formation":"C58 363牽引、12系客車" },
+{ "seq":"9", "LineName":"秩父鉄道", "Section":"波久礼～樋口間", "TrainNumber":"1525列車", "Formation":"7202F" },
+{ "seq":"10", "LineName":"秩父鉄道", "Section":"波久礼～樋口間", "TrainNumber":"1527列車", "Formation":"7505F","AdditionalInfo":"秩父三社トレイン" },
+{ "seq":"11", "LineName":"秩父鉄道", "Section":"波久礼～樋口間", "TrainNumber":"1007列車", "TrainName":"急行秩父路5号", "Formation":"6001F" },
+{ "seq":"12", "LineName":"秩父鉄道", "Section":"波久礼～樋口間", "TrainNumber":"1529列車", "Formation":"5003F" },
+{ "seq":"13", "LineName":"秩父鉄道", "Section":"波久礼～樋口間", "TrainNumber":"1531列車", "Formation":"7502F","AdditionalInfo":"秩父ジオパークトレイン" }
+]
+}
+
