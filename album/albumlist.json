@@ -1,0 +1,272 @@
+{"Album":[
+{
+ "AlbumID":"20180707",
+ "AlbumDate":"2018/07/07",
+ "AlbumName":"富士山･河口湖山開きまつり花火大会",
+ "Cover" : "30"
+},
+{
+ "AlbumID":"20180630",
+ "AlbumDate":"2018/06/30",
+ "AlbumName":"山万ユーカリが丘線",
+ "Cover": "5"
+},
+{
+ "AlbumID":"20170519",
+ "AlbumDate":"2017/05/19",
+ "AlbumName":"秩父鉄道",
+ "Cover" : "6"
+},
+{
+ "AlbumID":"20180429",
+ "AlbumDate":"2018/04/29",
+ "AlbumName":"上田電鉄別所線",
+ "Cover": "8"
+},
+{
+ "AlbumID":"20180428",
+ "AlbumDate":"2018/04/28",
+ "AlbumName":"上田電鉄別所線",
+ "Cover": "2"
+},
+{
+ "AlbumID":"20180421",
+ "AlbumDate":"2018/04/21",
+ "AlbumName":"西武多摩川線",
+ "Cover": "7"
+},
+{
+ "AlbumID":"20180401",
+ "AlbumDate":"2018/04/01",
+ "AlbumName":"大船渡線BRT",
+ "Cover": "11"
+},
+{
+ "AlbumID":"20180102",
+ "AlbumDate":"2018/01/02",
+ "AlbumName":"秩父鉄道",
+ "Cover": "9"
+},
+{
+ "AlbumID":"20180101",
+ "AlbumDate":"2018/01/01",
+ "AlbumName":"秩父鉄道",
+ "Cover" : "1"
+},
+{
+ "AlbumID":"20171202-1",
+ "AlbumDate":"2017/12/02",
+ "AlbumName":"秩父鉄道",
+ "Cover" : "5"
+},
+{
+ "AlbumID":"20171127",
+ "AlbumDate":"2017/11/27",
+ "AlbumName":"磐越西線",
+ "Cover" : "1"
+},
+{
+ "AlbumID":"20171119",
+ "AlbumDate":"2017/11/19",
+ "AlbumName":"山陽電鉄",
+ "Cover" : "9"
+},
+{
+ "AlbumID":"20171118",
+ "AlbumDate":"2017/11/18",
+ "AlbumName":"山陽電鉄",
+ "Cover" : "12"
+},
+{
+ "AlbumID":"20171117",
+ "AlbumDate":"2017/11/17",
+ "AlbumName":"神戸電鉄有馬線",
+ "Cover" : "6"
+},
+{
+ "AlbumID":"20170709",
+ "AlbumDate":"2017/07/09",
+ "AlbumName":"津軽鉄道",
+ "Cover" : "3"
+},
+{
+ "AlbumID":"20170708",
+ "AlbumDate":"2017/07/08",
+ "AlbumName":"弘南鉄道大鰐線",
+ "Cover" : "15"
+},
+{
+ "AlbumID":"20170707",
+ "AlbumDate":"2017/07/07",
+ "AlbumName":"仙石線・石巻線", 
+ "Cover" : "1"
+},
+{
+ "AlbumID":"20170703",
+ "AlbumDate":"2017/07/03",
+ "AlbumName":"仙台うみの杜水族館",
+ "Cover" : "26"
+},
+{
+ "AlbumID":"20170527",
+ "AlbumDate":"2017/05/27",
+ "AlbumName":"静岡鉄道",
+ "Cover" : "15"
+},
+{
+ "AlbumID":"20170520",
+ "AlbumDate":"2017/05/20",
+ "AlbumName":"秩父鉄道",
+ "Cover" : "18"
+},
+{
+ "AlbumID":"20170504",
+ "AlbumDate":"2017/05/04",
+ "AlbumName":"南武線・京王線",
+ "Cover" : "16"
+},
+{
+ "AlbumID":"20170430",
+ "AlbumDate":"2017/04/30",
+ "AlbumName":"上信電鉄",
+ "Cover" : "4"
+},
+{
+ "AlbumID":"20170424",
+ "AlbumDate":"2017/04/24",
+ "AlbumName":"大船渡市内",
+ "Cover" : "5"
+},
+{
+ "AlbumID":"20170423",
+ "AlbumDate":"2017/04/23",
+ "AlbumName":"三陸鉄道北リアス線",
+ "Cover" : "15"
+},
+{
+ "AlbumID":"20170421",
+ "AlbumDate":"2017/04/21",
+ "AlbumName":"仙台うみの杜水族館",
+ "Cover" : "38"
+},
+{
+ "AlbumID":"20170408",
+ "AlbumDate":"2017/04/08",
+ "AlbumName":"磐越西線郡山富田駅",
+ "Cover" : "2"
+},
+{
+ "AlbumID":"20170402",
+ "AlbumDate":"2017/04/02",
+ "AlbumName":"福島交通飯坂線",
+ "Cover" : "4"
+},
+{
+ "AlbumID":"20170318",
+ "AlbumDate":"2017/03/18",
+ "AlbumName":"女川駅周辺",
+ "Cover" : "7"
+},
+{
+ "AlbumID":"20170317",
+ "AlbumDate":"2017/03/17",
+ "AlbumName":"福島交通飯坂線",
+ "Cover" : "12"
+},
+{
+ "AlbumID":"20170311",
+ "AlbumDate":"2017/03/11",
+ "AlbumName":"福島交通飯坂線・東北本線",
+ "Cover" : "3"
+},
+{
+ "AlbumID":"20170226-1",
+ "AlbumDate":"2017/02/26",
+ "AlbumName":"仙石線", 
+ "Cover" : "5"
+},
+{
+ "AlbumID":"20170225-2",
+ "AlbumDate":"2017/02/25",
+ "AlbumName":"東北本線",
+ "Cover" : "14"
+},
+{
+ "AlbumID":"20170225-1",
+ "AlbumDate":"2017/02/25",
+ "AlbumName":"福島交通飯坂線",
+ "Cover" : "1"
+},
+{
+ "AlbumID":"20170211",
+ "AlbumDate":"2017/02/11",
+ "AlbumName":"秩父鉄道",
+ "Cover" : "10"
+},
+{
+ "AlbumID":"20170204-2",
+ "AlbumDate":"2017/02/04",
+ "AlbumName":"長瀞・宝登山臘梅園",
+ "Cover" : "8"
+},
+{
+ "AlbumID":"20170204-1",
+ "AlbumDate":"2017/02/04",
+ "AlbumName":"秩父鉄道",
+ "Cover" : "5"
+},
+{
+ "AlbumID":"20170129",
+ "AlbumDate":"2017/01/29",
+ "AlbumName":"東北本線",
+ "Cover" : "7"
+},
+{
+ "AlbumID":"20170116",
+ "AlbumDate":"2017/01/16",
+ "AlbumName":"山陽電気鉄道",
+ "Cover" : "16"
+},
+{
+ "AlbumID":"20170115",
+ "AlbumDate":"2017/01/15",
+ "AlbumName":"阪急神戸線・伊丹線",
+ "Cover" : "12"
+},
+{
+ "AlbumID":"20170114",
+ "AlbumDate":"2017/01/14",
+ "AlbumName":"大阪環状線",
+ "Cover" : "8"
+},
+{
+ "AlbumID":"20170113-2",
+ "AlbumDate":"2017/01/13",
+ "AlbumName":"京都鉄道博物館",
+ "Cover" : "38"
+},
+{
+ "AlbumID":"20170113-1",
+ "AlbumDate":"2017/01/13",
+ "AlbumName":"伏見稲荷大社",
+ "Cover" : "1"
+},
+{
+ "AlbumID":"20170103",
+ "AlbumDate":"2017/01/03",
+ "AlbumName":"秩父鉄道",
+ "Cover" : "1"
+},
+{
+ "AlbumID":"20170102",
+ "AlbumDate":"2017/01/02",
+ "AlbumName":"秩父鉄道",
+ "Cover" : "8"
+},
+{
+ "AlbumID":"20170101",
+ "AlbumDate":"2017/01/01",
+ "AlbumName":"秩父鉄道",
+ "Cover" : "10"
+}
+]}

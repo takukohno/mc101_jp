@@ -1,0 +1,21 @@
+h1 {
+margin: 0;
+padding: 0.5em;
+}
+nav {
+margin: 0.5em;
+}
+.panel-body img{
+margin: 0 auto;
+}
+@media screen and (max-width: 768px) {
+.photoitem {
+height: 240px;
+}
+}
+
+@media screen and (min-width: 768px) {
+.panel, .panel-body {
+width: 720px;
+}
+}

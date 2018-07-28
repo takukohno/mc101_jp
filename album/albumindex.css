@@ -1,0 +1,16 @@
+h1 {
+margin: 0;
+padding: 0.5em;
+}
+nav {
+margin: 0.5em;
+}
+.panel-footer {
+  height: 4em;
+}
+.photoitem {
+ height: 175px;
+}
+.albumitem {
+ height: 240px;
+}
