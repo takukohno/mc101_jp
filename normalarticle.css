@@ -1,0 +1,19 @@
+h3 {
+border-style: solid;
+border-color: #000000;
+border-width: 0 0 1px 0;
+}
+
+section p {
+margin: 1em;
+}
+section section {
+margin: 1em;
+}
+blockquote p {
+margin: 0;
+}
+.chapternumber, .sectionnumber {
+margin: 0 0.5em 0 0;
+}
+

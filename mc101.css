@@ -1,0 +1,22 @@
+h1 {
+margin: 1em;
+}
+nav {
+margin: 1em;
+}
+p {
+text-indent:1em;
+}
+footer p {
+text-indent: 0;
+}
+.pcAkey {
+text-decoration: underline;
+}
+
+
+@media screen and (max-width: 768px) {
+h1 img {
+margin: 1em auto 1em auto;
+}
+}
